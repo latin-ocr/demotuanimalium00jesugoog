@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./demotuanimalium00jesugoog_0005.png"; bbox 0 0 3419 4538; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2491 1730 2508 1787">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2491 1730 2508 1787">
+     <span class='ocr_line' id='line_1_1' title="bbox 2491 1730 2508 1787; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 2491 1730 2508 1787; x_wconf 61' lang='grc'>’01</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2685 1912 2694 1948">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2685 1912 2694 1948">
+     <span class='ocr_line' id='line_1_2' title="bbox 2685 1912 2694 1948; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 2685 1912 2694 1948; x_wconf 67' lang='grc'>,-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3055 2761 3064 2861">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3055 2761 3064 2861">
+     <span class='ocr_line' id='line_1_3' title="bbox 3055 2761 3064 2861; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 3055 2761 3064 2861; x_wconf 53' lang='lat' dir='ltr'>»ava-r-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
